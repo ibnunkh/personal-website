@@ -2,7 +2,7 @@ import React from 'react';
 import styles from '../../styles/styles.module.css';
 import fotoProfile from '../../assets/images/fotoProfile.jpg';
 import SectionText from '../molecules/SectionText';
-import BtnHomePage from '../molecules/btnHomePage';
+import BtnHomePage from '../molecules/BtnHomePage';
 import SocialHomePage from '../molecules/SocialHomePage';
 import ScrollFadeIn from '../organisems/ScrollFadeIn';
 
