@@ -580,6 +580,14 @@ h2 {
         text-align: center;
     }
 
+    .btnColor1 {
+        font-size: 0.8rem;
+    }
+
+    .btnColor2 {
+        font-size: 0.8rem;
+    }
+
     .btnContainer {
         margin-right: 2.5rem;
     }
@@ -667,14 +675,14 @@ h2 {
     }
 
     #contact {
-        width: 90%;
+        width: 100vw;
         height: fit-content;
         margin: 1rem auto;
         padding-top: 0;
     }
 
     .contactContainer {
-        width: 90%;
+        width: 100%;
     }
 
     .contactSubtitle {
